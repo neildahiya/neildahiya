@@ -1,4 +1,4 @@
-baseURL = 'http://neildahiya.com/'
+baseURL = 'https://neildahiya.github.io/neildahiya'
 languageCode = 'en-us'
 title = 'neildahiya'
 theme = "hugo-theme-console"
