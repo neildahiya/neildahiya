@@ -1,0 +1,25 @@
+baseURL = 'http://neildahiya.com/'
+languageCode = 'en-us'
+title = 'neildahiya'
+theme = "hugo-theme-console"
+
+[params]
+  # Cutting off the page title to two chars for mobile (console-demo -> co)
+  titleCutting = false
+
+  # Set the animation style -- https://animate.style/
+  # To disable animations, please remove or comment animationStyle parameter
+  animateStyle = "animated pulse fast" 
+
+
+  [[params.navlinks]]
+  name = "book-reviews/"
+  url = "book-reviews/"
+  
+  [[params.navlinks]]
+  name = "photos/"
+  url = "photos/"
+
+  [[params.navlinks]]
+  name = "lines/"
+  url = "lines/"

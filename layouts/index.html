@@ -1,0 +1,49 @@
+{{ define "main" }}
+
+<h1>About</h1>
+
+<p>
+I'm an engineer currently working at an OTT platform. I love music and trying out new and weird stuff. 
+Currently dabbling with music production. This blog is meant for some random shitposting/book reviews/photoshops/music updates. 
+<br>
+Connect with me on 
+<a target="_blank" href="https://www.linkedin.com/in/neil-dahiya-a56822133/" style="color: black; max-width: 25px; max-height: 25px;">{{ partial "fontawesome.html" "linkedin" }} </a>
+<a target="_blank" href="https://github.com/neildahiya" style="color: black; max-width: 25px; max-height: 25px;">{{ partial "fontawesome.html" "github" }} </a>
+<a target="_blank" href="https://twitter.com/neildahiya" style="color: black; max-width: 25px; max-height: 25px;">{{ partial "fontawesome.html" "twitter" }} </a>
+<a href="mailto:neildahiya1@gmail.com" style="color: black; max-width: 25px; max-height: 25px;">{{ partial "fontawesome.html" "envelope" }} </a>
+
+</p>
+
+<h1>Latest photos</h1>
+
+<div class="image-grid">
+    {{ with .Site.GetPage "/photos" }}
+    {{ range first 3 (sort .Data.Pages "Date" "desc")}}
+    <a href="{{ .Permalink }}" title="{{ .Title }}">
+        {{ $image := .Page.Resources.GetMatch .Params.image }}
+        {{ with $image }}
+        {{ $thumb := .Resize "300x" }}
+        <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive">
+        {{end}}
+    </a>
+    {{ end }}
+    {{ end }}
+</div>
+
+<h1>Latest book reviews</h1>
+
+<div class="posts-list">
+{{ with .Site.GetPage "/book-reviews" }}
+    {{ range first 3 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
+        <div class="post">
+            <p>
+                <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div>
+                <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+                {{ .Summary }}
+            </p>
+        </div>    
+    {{ end }}
+{{ end }}
+</div>
+
+{{ end }}
