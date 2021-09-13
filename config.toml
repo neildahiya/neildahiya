@@ -1,4 +1,4 @@
-baseURL = 'neildahiya.com'
+baseURL = 'https://neildahiya.com/'
 languageCode = 'en-us'
 title = 'neildahiya'
 theme = "hugo-theme-console"
