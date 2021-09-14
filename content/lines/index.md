@@ -6,9 +6,6 @@ title = "Some of the quotes I like"
 * I can't be sure I'm getting anywhere when I'm working hard, but I can be sure I'm getting nowhere when I'm not, and it feels awful.
 
   ***
-* We're not friends, not enemies. Just strangers with memories
-
-  ***
 * What does your book look like?
 
   ***
@@ -22,3 +19,6 @@ title = "Some of the quotes I like"
 
   ***
 * It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of light, it was the season of darkness, it was the spring of hope, it was the winter of despair. - (A Tale of Two Cities)
+
+  ***
+* We're not friends, not enemies. Just strangers with memories
