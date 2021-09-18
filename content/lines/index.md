@@ -3,6 +3,9 @@ date = "2021-17-07T21:05:33+05:30"
 title = "Some of the quotes I like"
 
 +++
+* If you know what you're worth, then go and get what you're worth.
+
+  ***
 * I can't be sure I'm getting anywhere when I'm working hard, but I can be sure I'm getting nowhere when I'm not, and it feels awful.
 
   ***
