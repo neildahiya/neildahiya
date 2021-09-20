@@ -3,6 +3,11 @@ date = "2021-17-07T21:05:33+05:30"
 title = "Some of the quotes I like"
 
 +++
+
+Why not you?
+
+***
+
 Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.
 
 ***
