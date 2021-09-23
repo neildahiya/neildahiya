@@ -7,6 +7,10 @@ Mr. Serotonin Man, lend me a gram. You call yourself a friend?
 
 ***
 
+Does your environment affect your thinking or is it the opposite?
+
+***
+
 It's not magic.
 
 ***
