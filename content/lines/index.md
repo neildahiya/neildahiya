@@ -3,6 +3,9 @@ date = "2021-17-07T21:05:33+05:30"
 title = "Some of the quotes I like"
 
 +++
+Mr. Serotonin Man, lend me a gram. You call yourself a friend?
+
+***
 
 Why not you?
 
