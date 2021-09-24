@@ -1,0 +1,10 @@
+---
+label: Book Review Template
+hide_body: false
+fields:
+- type: datetime
+  name: Date
+  label: Date
+- type: text
+  name: Title
+  label: Title
