@@ -1,0 +1,10 @@
+---
+label: BookReview
+hide_body: false
+fields:
+- type: datetime
+  name: Date
+  label: Date
+- type: text
+  name: Title
+  label: Title
