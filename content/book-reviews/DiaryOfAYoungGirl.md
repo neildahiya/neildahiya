@@ -1,6 +1,6 @@
 +++
 Date = 2021-06-27T20:30:00Z
-Title = "Diary of a young girl"
+Title = "Diary of a young girl - Anne Frank"
 
 +++
 This was a special book. It's not really a novel but an actual record of events by a 13 year old girl who ended up being the victim of the holocaust. Should one expect this book to be perfect? Absolutely not, it isn't meant to be perfect. One also can't expect good writing from a 13 year old going through one of the greatest tragedies on the face of the planet. But does she deliver? 100% yes. It's a heart breaking collection of someone's memories, someone who was full of life and found a way to express herself by means of this diary and gave the outside world a glance in the life of Jews during that horrible time.
