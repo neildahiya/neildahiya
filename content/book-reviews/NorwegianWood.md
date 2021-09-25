@@ -1,6 +1,6 @@
 +++
 Date = 2021-06-22T20:30:00Z
-Title = "Norwegian Wood"
+Title = "Norwegian Wood - Haruki Murakami"
 
 +++
 The correct way to describe this book would be sad. So many people die. That seems to be the overall theme of the book. I even considered leaving this book half way through but picked it up again because its so beautifully written. It's sad for sure but makes you wanna keep on reading or thinking about what's gonna happen next. Why do most of the books either start or end with a death. The ending is just heartbreaking, but it was building up to that point from the beginning.
@@ -13,4 +13,4 @@ Another thing I felt after reading the book is how a single person's bad decisio
 
 Would I read another Murakami? Yes, definitely, but not immediately. I need some time away from the sad novels.
 
-**Rating - 9/10** 
+**Rating - 9/10**
