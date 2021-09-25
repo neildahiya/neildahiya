@@ -1,6 +1,6 @@
 +++
 Date = 2021-09-24T17:02:00Z
-Title = "A Christmas Carol"
+Title = "A Christmas Carol - Charles Dickens"
 
 +++
 If I had to describe this book in one word, it'll have to be "Beautiful" or "Happy". It's so captivating and so well written. It's very different than all of Dicken's works I've read so far, but a masterpiece indeed. A very short book, but with a great story. It can be read in a couple of hours and if you haven't read something in a while, it's a great one to start again with. 
