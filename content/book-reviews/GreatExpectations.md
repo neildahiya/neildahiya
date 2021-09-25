@@ -1,6 +1,6 @@
 +++
 Date = 2021-08-28T18:30:00Z
-Title = "Great Expectations"
+Title = "Great Expectations - Charles Dickens"
 
 +++
 This was an interesting read. Dickens' books are pretty slow, but the way the story builds up towards the end is just beautiful in all of his books I've read till now. And this one surely keeps up with the trend. Though some parts of the book were predictable (like the convict's role in Pip falling into fortune), it was still an awesome read. 
