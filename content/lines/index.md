@@ -3,6 +3,10 @@ date = "2021-17-07T21:05:33+05:30"
 title = "Random lines/quotes/lyrics I like"
 
 +++
+Life is a puzzle. So best to get your straight pieces in place first. Get control of what you can, then be spontaneous.
+
+***
+
 Mr. Serotonin Man, lend me a gram. You call yourself a friend?
 
 ***
@@ -52,3 +56,5 @@ It was the best of times, it was the worst of times, it was the age of wisdom, i
 ***
 
 We're not friends, not enemies. Just strangers with memories
+
+***
