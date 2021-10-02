@@ -3,6 +3,10 @@ date = "2021-17-07T21:05:33+05:30"
 title = "Random lines/quotes/lyrics I like"
 
 +++
+Putting time to sharpen the axe and then cutting the tree is better than trying to cut a tree with a blunt axe
+
+***
+
 Life is a puzzle. So best to get your straight pieces in place first. Get control of what you can, then be spontaneous.
 
 ***
