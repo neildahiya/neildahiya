@@ -3,6 +3,11 @@ date = "2021-17-07T21:05:33+05:30"
 title = "Random lines/quotes/lyrics I like"
 
 +++
+
+We don’t have to be smarter than the rest. We have to be more disciplined than the rest.
+
+***
+
 We are what we repeatedly do, Excellence is therefore not an act but a habit.
 
 ***
