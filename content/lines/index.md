@@ -3,6 +3,10 @@ date = "2021-17-07T21:05:33+05:30"
 title = "Random lines/quotes/lyrics I like"
 
 +++
+We are what we repeatedly do, Excellence is therefore not an act but a habit.
+
+***
+
 Enjoy every sandwich - Warren Zevon
 
 ***
