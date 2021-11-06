@@ -3,75 +3,78 @@ date = "2021-17-07T21:05:33+05:30"
 title = "Random lines/quotes/lyrics I like"
 
 +++
-
-We don’t have to be smarter than the rest. We have to be more disciplined than the rest.
-
-***
-
-We are what we repeatedly do, Excellence is therefore not an act but a habit.
+_We don’t have to be smarter than the rest. We have to be more disciplined than the rest._
 
 ***
 
-Enjoy every sandwich - Warren Zevon
+_We are what we repeatedly do, Excellence is therefore not an act but a habit._
 
 ***
 
-Putting time to sharpen the axe and then cutting the tree is better than trying to cut a tree with a blunt axe
+_Enjoy every sandwich - Warren Zevon_
 
 ***
 
-Life is a puzzle. So best to get your straight pieces in place first. Get control of what you can, then be spontaneous.
+_Putting time to sharpen the axe and then cutting the tree is better than trying to cut a tree with a blunt axe_
 
 ***
 
-Mr. Serotonin Man, lend me a gram. You call yourself a friend?
+_Life is a puzzle. So best to get your straight pieces in place first. Get control of what you can, then be spontaneous._
 
 ***
 
-Does your environment affect your thinking or is it the opposite?
+_Mr. Serotonin Man, lend me a gram. You call yourself a friend?_
 
 ***
 
-It's not magic.
+_Does your environment affect your thinking or is it the opposite?_
 
 ***
 
-Why not you?
+_It's not magic._
 
 ***
 
-Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.
+_Why not you?_
 
 ***
 
-If you know what you're worth, then go and get what you're worth.
+_Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new._
 
 ***
 
-I can't be sure I'm getting anywhere when I'm working hard, but I can be sure I'm getting nowhere when I'm not, and it feels awful.
+_If you know what you're worth, then go and get what you're worth._
 
 ***
 
-What does your book look like?
+_I can't be sure I'm getting anywhere when I'm working hard, but I can be sure I'm getting nowhere when I'm not, and it feels awful._
 
 ***
 
-In a word, I was too cowardly to do what I knew to be right, as I had been too cowardly to avoid doing what I knew to be wrong - (Great Expectations)
+_What does your book look like?_
 
 ***
 
-My advice is, never do tomorrow what you can do today. Procrastination is the thief of time. Collar him! - (David Copperfield)
+_In a word, I was too cowardly to do what I knew to be right, as I had been too cowardly to avoid doing what I knew to be wrong - (Great Expectations)_
 
 ***
 
-John is a man of focus, commitment, and sheer will.
+_My advice is, never do tomorrow what you can do today. Procrastination is the thief of time. Collar him! - (David Copperfield)_
 
 ***
 
-It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of light, it was the season of darkness, it was the spring of hope, it was the winter of despair. - (A Tale of Two Cities)
+_John is a man of focus, commitment, and sheer will._
 
 ***
 
-We're not friends, not enemies. Just strangers with memories
+_It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of light, it was the season of darkness, it was the spring of hope, it was the winter of despair. - (A Tale of Two Cities)_
+
+***
+
+_We're not friends, not enemies. Just strangers with memories_
+
+***
+
+_Melancholy is the happiness of being sad_
 
 ***
