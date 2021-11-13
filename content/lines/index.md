@@ -83,6 +83,6 @@ _Master the boring fundamentals_
 
 ***
 
-Tiny changes, remarkable results
+_Tiny changes, remarkable results_
 
 ***
