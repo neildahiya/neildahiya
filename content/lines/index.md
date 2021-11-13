@@ -78,3 +78,11 @@ _We're not friends, not enemies. Just strangers with memories_
 _Melancholy is the happiness of being sad_
 
 ***
+
+_Master the boring fundamentals_
+
+***
+
+Tiny changes, remarkable results
+
+***
