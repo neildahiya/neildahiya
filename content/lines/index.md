@@ -86,3 +86,11 @@ _Master the boring fundamentals_
 _Tiny changes, remarkable results_
 
 ***
+
+_How big would you dream if you knew you couldn't fail?_
+
+***
+
+_Take one step in the right direction, and you're halfway there to make your dreams come true._
+
+***
