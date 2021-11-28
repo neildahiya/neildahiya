@@ -2,7 +2,7 @@ baseURL = 'https://neildahiya.com/'
 languageCode = 'en-us'
 title = 'neildahiya'
 theme = "hugo-theme-console"
-disqusShortname: 'neildahiya'
+disqusShortname= 'neildahiya'
 
 [params]
   # Cutting off the page title to two chars for mobile (console-demo -> co)
