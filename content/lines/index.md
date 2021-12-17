@@ -91,6 +91,6 @@ _How big would you dream if you knew you couldn't fail?_
 
 ***
 
-_Take one step in the right direction, and you're halfway there to make your dreams come true._
+_Take one step in the right direction, and you're halfway there to make your dreams come true_
 
 ***
