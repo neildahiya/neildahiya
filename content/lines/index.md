@@ -71,11 +71,11 @@ _It was the best of times, it was the worst of times, it was the age of wisdom, 
 
 ***
 
-_We're not friends, not enemies. Just strangers with memories_
+_We're not friends, not enemies. Just strangers with memories._
 
 ***
 
-_Melancholy is the happiness of being sad_
+_Melancholy is the happiness of being sad._
 
 ***
 
