@@ -1,7 +1,6 @@
 +++
 Date = 2021-12-29T18:30:00Z
 Title = "Goa 2021 - Christmas/Sunburn/Birthday"
-draft = true
 title = "Goa"
 
 +++
@@ -10,7 +9,6 @@ From almost missing the flight to Goa(even when I reached the airport 2 hours ea
 **Day 1**
 
 Had to wait a few (read lot) hours for our BNB to be ready, which was a blast. Rested for a few hours in the room. Rented 3 scooties and went to a beautiful cafe - Artjuna Cafe where I ate ravioli for the first time. The fresh smoothies were really nice too.  
-![](/uploads/ravioli.jpeg)  
 After that, we went to Calangute Beach at night. Bought some glow stick glasses and bracelets and danced/drank a lot.
 
 **Day 2**
