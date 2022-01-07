@@ -24,6 +24,8 @@ Ate dinner at a very popular restaurant (Fat Fish). The fish-n-chips were really
 
 This was a really fun day. We went to Fountainhas (for some really awesome pictures). After that, we changed and took off for "The Big Daddy Casino". The food there was pretty shit (like no salt). It was an open bar but the drink selection was really low. I just kept on having Pina Coladas. I remember there were around 20 full glasses of drinks on our table of 5. After eating and drinking, it was time to gamble. I had 2 chips worth Rs 1000 total which I lost on the game called "Dragon Tiger". After that, I lost some more money on the slot machine. I gave up and watched my friends lose their chips one by one. Then one of my friends explained roulette to me and I was back in. I got some more chips and spread all 5 on different corners. And surprisingly, I won. I took the chips I won and placed them again on some corners and some whole numbers a bit strategically. Luckily, I got 2 corners the next time and recovered all the money I lost. I cashed out and was Rs 300 up! That day was a success for sure, however small.
 
+![](/uploads/goa6.jpg)
+
 **Day 5**
 
 This was by far the best day of the trip. Attended Sunburn music festival. It was organized at a small scale this time but was still very very fun. I was in my element there. The music was awesome. The base was awesomeeeeee. The crowd was lit. The animations on stage were too good. I didn't know music could make you feel this way. After the show was over, I got to eat Neopolitan Pizza for the first time and I loved it. It literally took around a minute in the wood-fired oven. It was just too good. Also came across an awesome beer that had a high alcohol level with a really good taste (Plum and Peach flavor).
