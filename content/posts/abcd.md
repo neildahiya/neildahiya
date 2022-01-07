@@ -1,6 +1,6 @@
 +++
-Date = 2021-12-31T18:30:00Z
-Title = "abcd"
+Date = 2021-12-29T18:30:00Z
+Title = "Goa 2021 - Christmas/Sunburn/Birthday"
 
 +++
 From almost missing the flight to Goa(even when I reached the airport 2 hours early) to getting Covid on the way back, this tour was definitely something. I went to Goa for a week with 4 friends to celebrate Christmas and my birthday. Okay, the trip wasn't for my birthday, but it happened to be on one of the days, so yay I guess. If I had to describe that week in a word, it would be "BLUR", because that's what it was like. How a week flew by, I can't explain. Each day started at 1 PM and ended at 6-7 AM that week.
