@@ -8,9 +8,8 @@ From almost missing the flight to Goa(even when I reached the airport 2 hours ea
 **Day 1**
 
 Had to wait a few (read lot) hours for our BNB to be ready, which was a blast. Rested for a few hours in the room. Rented 3 scooties and went to a beautiful cafe - Artjuna Cafe where I ate ravioli for the first time. The fresh smoothies were really nice too.  
-<insert image>  
-After that, we went to Calangute Beach at night. Bought some glow stick glasses and bracelets and danced/drank a lot.  
-<Insert image>
+![](/uploads/ravioli.jpeg)  
+After that, we went to Calangute Beach at night. Bought some glow stick glasses and bracelets and danced/drank a lot.
 
 **Day 2**
 
@@ -29,8 +28,8 @@ This was a really fun day. We went to Fountainhas (for some really awesome pictu
 
 **Day 5**
 
-This was by far the best day of the trip. Attended Sunburn music festival. It was organized at a small scale this time but was still very very fun. I was in my element there. The music was awesome. The base was awesomeeeeee. The crowd was lit. The animations on stage were too good. I didn't know music could make you feel this way. After the show was over, I got to eat Neopolitan Pizza for the first time and I loved it. It literally took around a minute in the wood-fired oven. It was just too good. Also came across an awesome beer that had a high alcohol level with a really good taste (Plum and Peach flavor). 
+This was by far the best day of the trip. Attended Sunburn music festival. It was organized at a small scale this time but was still very very fun. I was in my element there. The music was awesome. The base was awesomeeeeee. The crowd was lit. The animations on stage were too good. I didn't know music could make you feel this way. After the show was over, I got to eat Neopolitan Pizza for the first time and I loved it. It literally took around a minute in the wood-fired oven. It was just too good. Also came across an awesome beer that had a high alcohol level with a really good taste (Plum and Peach flavor).
 
 **Day 6**
 
-My birthday. I'm 23, way too old. Went to Morjim Beach for a swim. Swimming in the ocean after 3 years felt awesome. After that, we went to the one restaurant I wanted to go to from the start of this trip - Sakana. It was a Japanese restaurant and the food was just too good. It was the first time I had good sushi in my life. The Tempura sushi roll and Gyoza were just too good. I also had Tonkatsu(fried pork cutlet) which was really crispy. I couldn't taste the pork in it, and the sauce was a bit sweet. Not what I was expecting. The Chicken Ramen and Dorayaki were a bit disappointing. After that, we went to Romeo Lane (this name haunts me) for some dinner. It was less crowded (which I like but my friends hate) and the location was really nice. 
+My birthday. I'm 23, way too old. Went to Morjim Beach for a swim. Swimming in the ocean after 3 years felt awesome. After that, we went to the one restaurant I wanted to go to from the start of this trip - Sakana. It was a Japanese restaurant and the food was just too good. It was the first time I had good sushi in my life. The Tempura sushi roll and Gyoza were just too good. I also had Tonkatsu(fried pork cutlet) which was really crispy. I couldn't taste the pork in it, and the sauce was a bit sweet. Not what I was expecting. The Chicken Ramen and Dorayaki were a bit disappointing. After that, we went to Romeo Lane (this name haunts me) for some dinner. It was less crowded (which I like but my friends hate) and the location was really nice.
