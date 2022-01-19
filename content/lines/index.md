@@ -98,3 +98,7 @@ _Take one step in the right direction, and you're halfway there to make your dre
 Everything is figureoutable
 
 ***
+
+_Don't run in the face of rejection, sit through and experience it._
+
+***
