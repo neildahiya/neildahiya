@@ -16,10 +16,8 @@ I know none of you will ever face such a problem, but if there is an upcoming �
 **_Tips_**
 
 1. Respect Girls — This goes without saying, but every day I see countless men not respecting women. This is unacceptable. Women need respect just like plants need water. This image accurately depicts this point.
-
-![](/uploads/respect.png)
-
-2. Don’t be polite — You might think “Oh he means stuff like opening the door for women”, well that's what a beta cuck would think. Let her open her own goddamn doors. Opening the door for her just makes her think she’s weak and not able to open the door. Same with pulling out the chair for them at the restaurant. They can do that themselves.
+2. ![](/uploads/respect.png)  
+   Don’t be polite — You might think “Oh he means stuff like opening the door for women”, well that's what a beta cuck would think. Let her open her own goddamn doors. Opening the door for her just makes her think she’s weak and not able to open the door. Same with pulling out the chair for them at the restaurant. They can do that themselves.
 3. Plan your day— Now you might be wondering, what to do all day? Well, worry not, cause I already have it all planned out. You follow this schedule and believe me, you won’t need to slide into girl’s DMs. They will slide into your bed.
 
    ![](/uploads/respect2.jpeg)
