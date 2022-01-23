@@ -5,6 +5,13 @@ admin_path: "/static/admin"
 webhook_url: 
 sections:
 - type: directory
+  path: content/funny
+  label: Funny
+  create: all
+  match: "**/*"
+  templates:
+  - book-review-template
+- type: directory
   path: content/posts
   label: Posts
   create: all
