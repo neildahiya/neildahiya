@@ -102,3 +102,7 @@ Everything is figureoutable
 _Don't run in the face of rejection, sit through and experience it._
 
 ***
+
+Be so good that they can't ignore you.
+
+***
