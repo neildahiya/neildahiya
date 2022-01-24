@@ -106,3 +106,7 @@ _Don't run in the face of rejection, sit through and experience it._
 Be so good that they can't ignore you.
 
 ***
+
+Instead of speculating what may make you great, get out there and start **doing**. Do not look for perfection or even greatness, but instead signs of “good” and start making tangible progress.
+
+***
