@@ -10,6 +10,7 @@ fields:
   label: Title
 pages:
 - content/book-reviews/AChristmasCarol.md
+- content/book-reviews/AlltheBrightPlaces.md
 - content/book-reviews/BreakfastAtTiffany's.md
 - content/book-reviews/EleanorAndPark.md
 - content/book-reviews/IAmLegend.md
