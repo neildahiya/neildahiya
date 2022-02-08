@@ -5,7 +5,7 @@ theme = "hugo-theme-console"
 title = "neildahiya"
 [params]
 animateStyle = "animated pulse fast"
-titleCutting = true
+titleCutting = false
 [[params.navlinks]]
 name = "posts/"
 url = "posts/"
