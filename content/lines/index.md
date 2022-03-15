@@ -95,7 +95,7 @@ _Take one step in the right direction, and you're halfway there to make your dre
 
 ***
 
-Everything is figureoutable
+_Everything is figureoutable_
 
 ***
 
@@ -103,10 +103,14 @@ _Don't run in the face of rejection, sit through and experience it._
 
 ***
 
-Be so good that they can't ignore you.
+_Be so good that they can't ignore you._
 
 ***
 
-Instead of speculating what may make you great, get out there and start **doing**. Do not look for perfection or even greatness, but instead signs of “good” and start making tangible progress.
+_Instead of speculating what may make you great, get out there and start **doing**. Do not look for perfection or even greatness, but instead signs of “good” and start making tangible progress._
+
+***
+
+_Do not spoil what you have by desiring what you have not; remember that what you now have was once among the things you only hoped for. ― Epicurus_
 
 ***
