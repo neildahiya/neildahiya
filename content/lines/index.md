@@ -114,3 +114,7 @@ _Instead of speculating what may make you great, get out there and start **doing
 _Do not spoil what you have by desiring what you have not; remember that what you now have was once among the things you only hoped for. ― Epicurus_
 
 ***
+
+_The greats do the things even if they don't want to._
+
+***
